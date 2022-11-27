@@ -1,6 +1,6 @@
 ---
-title: 'recently'
-date: '2022-11-27 11:56:32'
+title: "recently"
+date: "2022-11-27 11:56:32"
 ---
 
 - learning
