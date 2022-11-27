@@ -1,9 +1,7 @@
 ---
-title: "me"
+title: "Me"
 date: 2022-11-27T12:03:48+08:00
 ---
-
-# Me
 
 This repository contains the detail of me.
 
