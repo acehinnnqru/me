@@ -6,6 +6,7 @@ date: 2022-11-27T11:56:32+08:00
 - learning
   - **Rust**, preparing to attend a Hackathon
   - **Web development**, ready to write some projects
+  - **English**, to work better with teammates
 - life
   - a little better
 - ready to change
