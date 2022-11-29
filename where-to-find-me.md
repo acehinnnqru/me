@@ -1,6 +1,7 @@
 ---
 title: "where to find me"
 date: 2022-11-29T20:56:45+08:00
+summary: where I am on the internet
 ---
 
 You can find me in some ways.
