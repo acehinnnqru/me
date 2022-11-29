@@ -13,6 +13,8 @@ If you get anything to ask, feel free to contact me with email or any ways you l
 - [Github](https://github.com/acehinnnqru)
 - [Telegram Channel](https://t.me/+7qW_ikEpDv01M2Q1)
 - [Discord](https://discord.gg/sNEj3DNx3A)
+- [Personal Site](https://me.acehinnnqru.com)
+- [Rss](https://me.acehinnnqru.com/index.xml)
 
 ## Contact
 
