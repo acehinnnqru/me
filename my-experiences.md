@@ -2,6 +2,7 @@
 title: 'my experiences'
 date: 2022-11-27T20:33:33+08:00
 categories: about
+summary: my past experiences
 ---
 
 ## 2022.06 ~ present: Microsoft
