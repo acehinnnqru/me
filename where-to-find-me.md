@@ -1,8 +1,9 @@
-# Me
+---
+title: "where to find me"
+date: 2022-11-29T20:56:45+08:00
+---
 
-This repository contains the detail of me.
-
-You can track who I am, what I used to do and what I am doing.
+You can find me in some ways.
 
 If you get anything to ask, feel free to contact me with email or any ways you like.
 
