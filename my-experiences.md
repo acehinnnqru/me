@@ -1,6 +1,6 @@
 ---
 title: 'my experiences'
-date: 2022-11-27T20:33:33+08:00
+date: 2022-11-29T21:11:56+08:00
 categories: about
 summary: my past experiences
 ---
